@@ -1,0 +1,20 @@
+
+  .box {
+    width: 630px;
+    height: 275px;
+    border: 5px solid #212529; /* This creates a solid black border */
+    line-height:15%;
+    padding-left: 5%;
+  }
+
+  .Myimage {
+    position: relative;
+    top: -230px;
+    left: 335px;
+    border-radius: 50%; /* Makes the image circular */
+    width: 200px; /* Adjust the width of the image */
+    height: 200px; /* Adjust the height of the image */
+    object-fit: cover; /* Ensures the image covers the entire circle */
+  }
+ 
+
